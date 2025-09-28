@@ -115,6 +115,7 @@ title('SSB Modulated signal (USB)');
 
 
 
+![WhatsApp Image 2025-09-28 at 22 50 10](https://github.com/user-attachments/assets/fe62f851-551a-444d-9205-860f902fc4d3)
 
 
 
